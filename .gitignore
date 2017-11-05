@@ -2,8 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/AnotherAir/**/*/AnotherAir/v15
-/src/AnotherAir/**/*/Debug
-/src/AnotherAir/*.user
-/src/AnotherAir/*.user
-/src/AnotherAir/**/*/.vs
+/src/**/*/Debug
+/src/**/*.user
+/src/.vs
