@@ -5,3 +5,5 @@
 /src/AnotherAir/**/*/AnotherAir/v15
 /src/AnotherAir/**/*/Debug
 /src/AnotherAir/*.user
+/src/AnotherAir/*.user
+/src/AnotherAir/**/*/.vs
